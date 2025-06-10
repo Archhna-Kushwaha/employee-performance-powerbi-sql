@@ -54,7 +54,7 @@ This project delivers a strategic analysis of employee performance and departmen
 
 ## 🌐 Live Dashboard Demo (LinkedIn Post)
 
-🔗 *[Add LinkedIn post link once uploaded]*
+🔗 *[(https://www.linkedin.com/posts/archhna-datanalytics_powerbi-sql-dataanalytics-activity-7338173079837134848-DJIg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAaO1i4ByyFjPKFCGkoY3MMIHCkkuHdi1wQ)]*
 
 ---
 
